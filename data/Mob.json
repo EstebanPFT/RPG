@@ -1,0 +1,68 @@
+{
+    "1": {
+        "name": "Goule",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 7
+    },
+    "2": {
+        "name": "Goblin",
+        "PV": 30,
+        "MaxPV": 30,
+        "Force": 10
+    },
+    "3": {
+        "name": "Chevalier du Creuset",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 15
+    },
+    "4": {
+        "name": "Squelette",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 20
+    },
+    "5": {
+        "name": "Fungus",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 25
+    },
+    "6": {
+        "name": "Ours",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 15
+    },
+    "7": {
+        "name": "Scaravache ",
+        "PV": 40,
+        "MaxPV": 40,
+        "Force": 25
+    },
+    "8": {
+        "name": "Kobol",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 15
+    },
+    "9": {
+        "name": "Loup",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 20
+    },
+    "10": {
+        "name": "Goblin Chaman",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 35
+    },
+    "11": {
+        "name": "Obre",
+        "PV": 20,
+        "MaxPV": 20,
+        "Force": 30
+    }
+}
